@@ -7,6 +7,10 @@
     # All the components will be coupled together by ``index.php`` 
  -->
 
+<?php
+    include_once('./script/main.php'); # import main script
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
