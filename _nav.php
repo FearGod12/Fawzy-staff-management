@@ -10,11 +10,10 @@
     <div id="header">
        
         <div class="big_div">  
-          <button type="button" id="btn1">Search</button>
-          <button type="button" id="btn4">Add Employee</button>
-          <button type="button" id="btn4">update Employee Info</button>
-          <button type="button" id="btn2">Delete Employee</button>
-          <button type="button" id="btn3">Employee List</button>
-         
+          <a href="./script/main.php?page=__home"><button type="button" id="btn1">Search</button></a>
+          <a href="./script/main.php?page=__employee&action=add"><button type="button" id="btn4">Add Employee</button></a>
+          <a href="./script/main.php?page=__employee&action=update"><button type="button" id="btn4">Update Employee Info</button></a>
+          <a href="./script/main.php?page=__employee&action=delete"><button type="button" id="btn4">Delete Employee</button></a>
+          <a href="./script/main.php?page=__employee_list"><button type="button" id="btn4">Employee List</button></a>         
         </div>
     </div>
