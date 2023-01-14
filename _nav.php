@@ -1,20 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="index.css">
-</head>
-<body style="background-image: ;">
-    <!-- Navbar Section -->
-    <nav>
+<!-- Navbar Section -->
+
+<nav>
         <div class="logo">
             <img src="images/logo.png" alt="logo">
         </div>
         <h1 >Fawzy Staff Management System</h1>
     </nav>
+
     <div id="header">
        
         <div class="big_div">  
@@ -26,5 +18,3 @@
          
         </div>
     </div>
-</body>
-</html>

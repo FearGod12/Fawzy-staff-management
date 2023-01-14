@@ -1,0 +1,6 @@
+<!-- 
+    # Footer module --
+-->
+
+</body>
+</html>
