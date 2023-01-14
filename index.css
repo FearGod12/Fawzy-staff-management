@@ -1,6 +1,5 @@
 body {
     
-    overflow: scroll;
     font-family: sans-serif;
     background: url(images/fawzy_1.jpg)
 }
@@ -9,6 +8,9 @@ nav{
     display: flex;
     height: 5%;
     background-color: white;
+    width: 110%;
+    margin-top: -5px;
+    margin-left: -5px; 
 }
 nav h1{
     margin-top: 3%;
