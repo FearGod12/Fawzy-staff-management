@@ -1,0 +1,36 @@
+body {
+    
+    overflow: scroll;
+    font-family: sans-serif;
+    background: url(images/fawzy_1.jpg)
+}
+
+nav{
+    display: flex;
+    height: 5%;
+    background-color: white;
+}
+nav h1{
+    margin-top: 3%;
+    margin-left: 20%;
+}
+
+.logo img {
+    width: 100%;
+    margin-left: 20%;
+}
+.big_div {
+    height: 30%;
+    width: 100%;
+    display: flex;
+
+    
+}
+button {
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 120%;
+    border-radius: 10%;
+    border: ;
+}

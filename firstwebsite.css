@@ -5,6 +5,7 @@ body {
     overflow: scroll;
     font-family: sans-serif;
     background: url(images/fawzy_1.jpg)
+    background-size: cover;
 }
 ::-webkit-scrollbar {
     width: 10px;
