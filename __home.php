@@ -1,8 +1,9 @@
 <h1>
-    Hello World!
+    welcome!
 </h1>
 
-<a href="./script/main.php?page=__new"><button>Load New Page!</button></a>
+<a href="./script/main.php?page=__new"><button>Add New staff</button></a>
+
 <!-- 
     ``?key=value`` is one way of passing variables through URL
     this method is used for page handling, which will be used by
