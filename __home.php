@@ -1,5 +1,6 @@
 <div id="banner">
     <img src="images/IMG_20230122_143408_664.jpg" alt="fawzy">
+    <img src="images/IMG_20230122_143436_669.jpg" alt="fawzy">
     <div class="bannercaption">
 
     </div>

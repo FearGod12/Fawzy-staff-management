@@ -1,21 +1,30 @@
-<div class="footer">
-    <div class="container">
-        <div class="row">
-            <div class="col">
-                <p>Copyright © Fawzy Hotel and Event Planners 2023LTD.</p>
-            </div>
-            <div class="col">
-                <p>Contact Us: Block vii, plot 1,2,3 Adewumi layout, off Akinyemi Way, Ring Road, Ibadan. <br> Email: Fawzyhotel@gmail.com <br>Tel. 08105479934</p>
-            </div>
-            <div class="col">
-                <p>Terms and Conditions</p>
-            </div>
-        </div>
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4">
+        <h4>Fawzy Hotel</h4>
+        <p>Block vii, plot 1,2,3 Adewumi Layout Off Akinyemi Way, <br> Ring Road, Ibadan, Nigeria</p>
+      </div>
+      <div class="col-md-4">
+        <h4>Contact Us</h4>
+        <p>Email: info@fawzyhotel.com</p>
+        <p>Phone: +234 810 547 9934</p>
+      </div>
+      <div class="col-md-4">
+        <h4>Follow Us</h4>
+        <a href="https://www.facebook.com/fawzyhotel/">Facebook</a>
+        <a href="https://www.instagram.com/fawzyhotel/">Instagram</a>
+        <a href="https://twitter.com/fawzyhotel">Twitter</a>
+      </div>
     </div>
-</div>
-    <script src="script.js"></script>
-  </body>
-</html>
+    <div class="row">
+      <div class="col-md-12">
+        <p>Copyright © 2023 Fawzy Hotel. All rights reserved.</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
 <script>
     const addEmployeeLink = document.getElementById("add-employee-link");
     const deleteEmployeeLink = document.getElementById("delete-employee-link");

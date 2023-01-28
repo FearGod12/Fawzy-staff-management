@@ -1,21 +1,6 @@
-<!-- This styling should be merged to the main css file -->
-<style>
-      /* CSS styling for table */
-      table {
-        width: 100%;
-        border-collapse: collapse;
-      }
-      th, td {
-        border: 1px solid black;
-        padding: 8px;
-        text-align: left;
-      }
-      th {
-        background-color: #f2f2f2;
-      }
-</style>
 
-
+<p></p>
+<div class="employee_table">
 <h1>Employee List</h1>
     <table>
       <tr>
@@ -41,3 +26,4 @@
       </tr>
       <!-- Additional rows for each employee -->
     </table>
+    </div>
